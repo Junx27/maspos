@@ -68,13 +68,15 @@ Ikuti langkah-langkah berikut untuk menginstal proyek Laravel ini:
 
 Jika Anda memiliki migrasi, jalankan perintah berikut untuk memindahkan tabel ke database:
 
-        ```bash
-        php artisan migrate
-        ```
+    ```bash
+    php artisan migrate
+    ```
 
-        ```bash
-         php artisan db:seed --class=DatabaseSeeder
-        ```
+Melakukan seeder
+
+    ```bash
+    php artisan db:seed --class=DatabaseSeeder
+    ```
 
 ## Menjalankan Aplikasi
 
