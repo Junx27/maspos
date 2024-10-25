@@ -66,17 +66,15 @@ Ikuti langkah-langkah berikut untuk menginstal proyek Laravel ini:
 
 6.  **Migrasi Database**
 
-        Jika Anda memiliki migrasi, jalankan perintah berikut untuk memindahkan tabel ke database:
+Jika Anda memiliki migrasi, jalankan perintah berikut untuk memindahkan tabel ke database:
 
         ```bash
         php artisan migrate
         ```
+
         ```bash
          php artisan db:seed --class=DatabaseSeeder
         ```
-
-    atau
-    import file sql yang ada di folder public/database
 
 ## Menjalankan Aplikasi
 
@@ -90,7 +88,8 @@ Aplikasi Anda akan dapat diakses di `http://localhost:8000`.
 
 ## Preview
 
-dapat mengunjungi [maspos](http://maspos.junxwebdev.my.id/) atau [junx](https://maspos.junxwebdev.my.id/)
+-   **[maspos](http://maspos.junxwebdev.my.id/)**
+-   **[junx](https://maspos.junxwebdev.my.id/)**
 
--- email:junx@example.com
--- password:12345678
+-   email:junx@example.com
+-   password:12345678
