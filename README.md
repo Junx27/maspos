@@ -93,5 +93,4 @@ Aplikasi Anda akan dapat diakses di `http://localhost:8000`.
 -   **[maspos](http://maspos.junxwebdev.my.id/)**
 -   **[junx](https://maspos.junxwebdev.my.id/)**
 
--   email:junx@example.com
--   password:12345678
+Untuk akses login gunakan email `junx@example.com` dan password `12345678`.
