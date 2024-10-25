@@ -27,6 +27,14 @@ Ikuti langkah-langkah berikut untuk menginstal proyek Laravel ini:
     npm install
     ```
 
+    ```bash
+    npm run dev
+    ```
+
+    ```bash
+    npm run build
+    ```
+
 3.  **Buat File `.env`**
 
     Salin file `.env.example` menjadi `.env`:
