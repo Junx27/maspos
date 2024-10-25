@@ -87,3 +87,10 @@ php artisan serve
 ```
 
 Aplikasi Anda akan dapat diakses di `http://localhost:8000`.
+
+## Preview
+
+dapat mengunjungi [maspos](http://maspos.junxwebdev.my.id/) atau [junx](https://maspos.junxwebdev.my.id/)
+
+-- email:junx@example.com
+-- password:12345678
