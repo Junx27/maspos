@@ -11,7 +11,7 @@ Ikuti langkah-langkah berikut untuk menginstal proyek Laravel ini:
     Gunakan perintah `git` untuk meng-clone repositori:
 
     ```bash
-    git clone https://github.com/username/maspos.git
+    git clone https://github.com/Junx27/maspos.git
     cd maspos
     ```
 
